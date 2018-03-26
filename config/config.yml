@@ -1,0 +1,6 @@
+driver : 'pdo_mysql'
+host  : 'localhost'
+dbname : 'cnam_silex_2017'
+user : 'root'
+password : 'Alligator487§?§'
+charset: 'utf8mb4'
